@@ -73,4 +73,4 @@ def logout():
 
 if __name__ == '__main__':
 	init_db()
-	app.run('10.20.6.131')
+	app.run()
